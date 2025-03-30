@@ -11,6 +11,7 @@ Esta landing destaca:
 
 - 🖥️ Diseño responsivo adaptado a todos los dispositivos
 - 🎯 Scroll suave entre secciones
+- ✍️ Formulario de contacto funcional y accesible
 - 📍 Mapa embebido con ubicación (Google Maps)
 - 📸 Estilo visual limpio, con colores institucionales (#009E9B y blanco)
 - 🔠 Tipografía fluida con `clamp()` para un look adaptable y moderno
