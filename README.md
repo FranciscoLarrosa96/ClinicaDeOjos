@@ -31,9 +31,8 @@ Esta landing destaca:
 
 ## 📷 Vista previa
 
-> (Agregá una captura como `screenshot.png`)
+![image](https://github.com/user-attachments/assets/9119d36f-f1e7-4a5b-9d01-33754745d2a3)
 
-![Preview](./screenshot.png)
 
 ---
 
