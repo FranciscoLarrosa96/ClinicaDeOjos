@@ -1,0 +1,13 @@
+.contruccion{
+    height: 100vh !important;
+    width: 100vw !important;
+    background-color: red;
+    background-image: url('../assets/img/cot_construccion.avif');
+    background-size: cover;
+    background-position: center;
+    
+  }
+
+  body{
+    padding: 0;
+  }
